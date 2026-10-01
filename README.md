@@ -1,16 +1,31 @@
-## Hi there 👋
+# Johel González
+### Software Developer · C# / .NET · SQL Server
 
-<!--
-**itsjohel/itsjohel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web applications using C#, ASP.NET MVC, and SQL Server, with a focus on readable code, maintainable structure, and practical solutions.
 
-Here are some ideas to get you started:
+I'm currently pursuing a degree in Systems Engineering at Universidad Americana in Costa Rica. I use this space to share my projects, document technical decisions, and demonstrate how I approach software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Backend:** C#, .NET Framework, ASP.NET MVC
+- **Databases:** SQL Server, PostgreSQL
+- **Data Access:** Entity Framework
+- **Development Practices:** REST APIs, Git, Agile
+
+## Projects
+
+### Unstoppable Fitness
+An ASP.NET MVC application for an athletic apparel store, built with C#, Entity Framework, and SQL Server.
+
+Includes product browsing, a shopping cart, and a checkout flow with simulated payment.
+
+### Vehicle Management System
+A C# and SQL Server project focused on vehicle and manufacturer records, CRUD operations, and a layered application structure.
+
+## Engineering Focus
+
+- Clear separation of responsibilities across application layers
+- Relational database design and data access
+- Readable code and maintainable application structure
+- Connecting technical implementation with user needs
+

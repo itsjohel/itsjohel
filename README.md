@@ -1,7 +1,25 @@
 <h1 align="center">Hi there, I'm Johel González 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=7C9CFF&center=true&vCenter=true&width=650&height=65&lines=Software+Developer;C%23+%7C+.NET+%7C+ASP.NET+%7C+Python;Building+practical+web+applications" alt="Animated introduction: Software Developer, C#, .NET, ASP.NET and Python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=7C9CFF&center=true&vCenter=true&width=650&height=65&lines=Software+Developer;C%23+%7C+.NET+%7C+ASP.NET+%7C+Python;Building+practical+web+applications" alt="Animated introduction" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/johel-gonzalez-a42a43281/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@JohelGonzalezVlogs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://www.facebook.com/thejohel/">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/johelgc/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@imjohelgonzalez">
+    <img src="https://img.shields.io/badge/TikTok-181818?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
 </p>
 
 ## 🚀 About Me
@@ -38,6 +56,7 @@ public class JohelGonzalez
 ## 📂 Projects
 
 ### Unstoppable Fitness
+
 A web application for an athletic apparel store, built with ASP.NET MVC, C#, Entity Framework, and SQL Server.
 
 - Product browsing
@@ -45,6 +64,7 @@ A web application for an athletic apparel store, built with ASP.NET MVC, C#, Ent
 - Checkout flow with simulated payment
 
 ### Vehicle Management System
+
 A C# and SQL Server project for managing vehicle and manufacturer records.
 
 - CRUD operations
@@ -56,6 +76,12 @@ A C# and SQL Server project for managing vehicle and manufacturer records.
 - Developing my vehicle management application.
 - Expanding my Python skills.
 - Improving project documentation and sharing my work on GitHub.
+
+## 📫 Let's Connect
+
+For professional opportunities and conversations about software development, connect with me on [LinkedIn](https://www.linkedin.com/in/johel-gonzalez-a42a43281/).
+
+You can also find my content on YouTube, Facebook, Instagram, and TikTok through the links above.
 
 ---
 

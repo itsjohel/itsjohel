@@ -17,9 +17,6 @@
   <a href="https://www.instagram.com/johelgc/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@imjohelgonzalez">
-    <img src="https://img.shields.io/badge/TikTok-181818?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
 </p>
 
 ## 🚀 About Me
